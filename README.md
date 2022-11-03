@@ -84,6 +84,49 @@
     
   ▫️ **클라이언트 코드의 변경 없이 기능 확장**
   
+
+
+<br>
+
+🔥 **프로젝트 생성** 🔥
+
+https://start.spring.io
+
+👆🏻 위 사이트로 이동해서 스프링 프로젝트 생성
+
+<br>
+
+📄 프로젝트 선택
+
+  ▫️ Project : Gradle Project
+  
+  ▫️ Spring Boot : 2.3x
+  
+  ▫️ Language : Java
+  
+  ▫️ Packaging : Jar
+  
+  ▫️ Java : 11
+  
+  <br>
+
+📄 Project Metadata
+
+  ▫️ groupId : hello
+  
+  ▫️ artifactId : core
+  
+ 
+ <br>
+📄 Dependencies : 선택하지 않는다.
+
+
+  
+  
+  
+  
+  
+  
   
 
   
