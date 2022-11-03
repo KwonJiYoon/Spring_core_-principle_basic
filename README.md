@@ -100,7 +100,7 @@ https://start.spring.io
 
   ▫️ Project : Gradle Project
   
-  ▫️ Spring Boot : 2.3x
+  ▫️ Spring Boot : 2.7x
   
   ▫️ Language : Java
   
