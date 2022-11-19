@@ -48,4 +48,5 @@ public class ApplicationContextBasicFindTest {
                 () -> ac.getBean("xxxx", MemberService.class));
     }
 
+
 }
