@@ -1,4 +1,4 @@
-## 2022.11.26 (토) - @ComponentScan
+## 2022.11.26 (토) - @ComponentScan, @Autowired
 
 **🟨 @ComponentScan**
 <br>
