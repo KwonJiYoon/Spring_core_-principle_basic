@@ -1,5 +1,6 @@
 package hello.core.lifeCycle;
 
+// 스프링에 종속적인 기술이 아니라 JSR-20이라는 자바 표준
 import javax.annotation.PostConstruct;
 import javax.annotation.PreDestroy;
 
@@ -34,7 +35,6 @@ public class NetworkClient {
     @PostConstruct
     public void init() {
         System.out.println("NetworkClient.init");
-
         connect();
         call("초기화 연결 메세지");
     }
